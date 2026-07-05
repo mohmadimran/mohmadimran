@@ -5,6 +5,8 @@
 🌱 Passionate about creating modern web applications with React.js, Node.js, Express.js, and MongoDB.
 
 📧 Email: **[pathanimrankhan308@gmail.com](mailto:pathanimrankhan308@gmail.com)**
+- **Portfolio:** https://www.crio.do/learn/portfolio/pathanimrankhan308/
+- **LinkedIn:** https://linkedin.com/in/your-linkedin-profile
 
 # 💫 About Me:
 🚀 MERN Stack Developer with 2+ years of professional experience as a Frontend Developer.<br><br>💻 Certified in Full Stack Development (MERN) from Crio.Do, Bangalore, with hands-on experience in MongoDB, Express.js, React, and Node.js. Proficient in API development, authentication, scalable architecture, and deployment through real-world projects.<br><br>🌱 Currently expanding my expertise in:<br>- Node.js<br>- Express.js<br>- MongoDB<br>- REST APIs<br>- Authentication & Authorization<br>- System Design fundamentals<br><br>⚡ What I enjoy:<br>- Building full-stack applications<br>- Writing clean and maintainable code<br>- Solving DSA problems<br>- Learning new technologies<br>- Contributing to open-source projects<br><br>🎯 Goal:<br>To work on challenging products where I can build scalable applications, continuously learn, and grow as a Software Engineer.
